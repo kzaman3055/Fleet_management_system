@@ -76,7 +76,7 @@ We can configure this project on following operating system.
 - Windows: This project can easily be configured on windows operating system. For running this project on Windows system, you will have to install WAMP or XAMP on your system.
 - Linux: We can run this project also on all versions of Linux operating system. You will have to install WAMP or XAMP on your system.
 
-## Project Made By
+## Developed By
 
 **Md. Kamruzzaman**
 Email: kzaman3055@gmail.com
